@@ -1,0 +1,72 @@
+{
+  "oneWeekData": [
+    { "date": "2023-01-01", "price": 61000, "volume": 213 },
+    { "date": "2023-01-01", "price": 64000, "volume": 300 },
+    { "date": "2023-01-01", "price": 62000, "volume": 213 },
+    { "date": "2023-01-01", "price": 65000, "volume": 300 },
+    { "date": "2023-01-01", "price": 61000, "volume": 213 },
+    { "date": "2023-01-02", "price": 66000, "volume": 150 },
+    { "date": "2023-01-03", "price": 64500, "volume": 200 },
+    { "date": "2023-01-04", "price": 63500, "volume": 180 },
+    { "date": "2023-01-05", "price": 64000, "volume": 220 },
+    { "date": "2023-01-06", "price": 63500, "volume": 190 },
+    { "date": "2023-01-07", "price": 63179.71, "volume": 210 }
+  ],
+  "threeDayData": [
+    { "date": "2023-01-01", "price": 81000, "volume": 213 },
+    { "date": "2023-01-01", "price": 54000, "volume": 300 },
+    { "date": "2023-01-01", "price": 62000, "volume": 213 },
+    { "date": "2023-01-01", "price": 55000, "volume": 300 },
+    { "date": "2023-01-01", "price": 61600, "volume": 213 },
+    { "date": "2023-01-02", "price": 66000, "volume": 150 },
+    { "date": "2023-01-03", "price": 84500, "volume": 200 },
+    { "date": "2023-01-04", "price": 73500, "volume": 180 },
+    { "date": "2023-01-05", "price": 64000, "volume": 220 },
+    { "date": "2023-01-06", "price": 53500, "volume": 190 },
+    { "date": "2023-01-07", "price": 83179.71, "volume": 210 }
+  ],
+  "oneDayData": [
+    { "date": "2023-01-01", "price": 52000, "volume": 213 },
+    { "date": "2023-01-01", "price": 58000, "volume": 300 },
+    { "date": "2023-01-01", "price": 55000, "volume": 213 },
+    { "date": "2023-01-01", "price": 61000, "volume": 300 },
+    { "date": "2023-01-01", "price": 54000, "volume": 213 },
+    { "date": "2023-01-02", "price": 67000, "volume": 150 },
+    { "date": "2023-01-03", "price": 72500, "volume": 200 },
+    { "date": "2023-01-04", "price": 69500, "volume": 180 },
+    { "date": "2023-01-05", "price": 75000, "volume": 220 },
+    { "date": "2023-01-06", "price": 82500, "volume": 190 },
+    { "date": "2023-01-07", "price": 88179.71, "volume": 210 }
+  ],
+  "sixMonthData": [
+    { "date": "2023-01-01", "price": 45000, "volume": 200 },
+    { "date": "2023-02-01", "price": 52000, "volume": 220 },
+    { "date": "2023-03-01", "price": 58000, "volume": 240 },
+    { "date": "2023-04-01", "price": 63000, "volume": 260 },
+    { "date": "2023-05-01", "price": 70000, "volume": 280 },
+    { "date": "2023-06-01", "price": 76000, "volume": 300 },
+    { "date": "2023-07-01", "price": 88179.71, "volume": 320 }
+  ],
+  "oneYearData": [
+    { "date": "2022-07-01", "price": 32000, "volume": 150 },
+    { "date": "2022-09-01", "price": 38000, "volume": 180 },
+    { "date": "2022-11-01", "price": 42000, "volume": 200 },
+    { "date": "2023-01-01", "price": 48000, "volume": 220 },
+    { "date": "2023-03-01", "price": 58000, "volume": 240 },
+    { "date": "2023-05-01", "price": 70000, "volume": 280 },
+    { "date": "2023-07-01", "price": 88179.71, "volume": 320 }
+  ],
+  "maxData": [
+    { "date": "2018-07-01", "price": 6000, "volume": 50 },
+    { "date": "2019-01-01", "price": 3500, "volume": 40 },
+    { "date": "2019-07-01", "price": 10000, "volume": 80 },
+    { "date": "2020-01-01", "price": 7000, "volume": 60 },
+    { "date": "2020-07-01", "price": 9000, "volume": 70 },
+    { "date": "2021-01-01", "price": 30000, "volume": 150 },
+    { "date": "2021-07-01", "price": 35000, "volume": 180 },
+    { "date": "2022-01-01", "price": 40000, "volume": 200 },
+    { "date": "2022-07-01", "price": 22000, "volume": 120 },
+    { "date": "2023-01-01", "price": 48000, "volume": 220 },
+    { "date": "2023-07-01", "price": 88179.71, "volume": 320 }
+  ]
+}
