@@ -1,30 +1,30 @@
-# React + TypeScript + Vite
+## Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. **Dynamic Price Display**: Shows the current price of the cryptocurrency with USD currency indicator.
 
-Currently, two official plugins are available:
+2. **Price Change Indicator**: Displays the price change and percentage change, color-coded for positive (green) or negative (red) changes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3. **Interactive Time Frame Selection**: Users can switch between different time frames:
+   - 1 day (1d)
+   - 3 days (3d)
+   - 1 week (1w)
+   - 1 month (1m)
+   - 6 months (6m)
+   - 1 year (1y)
+   - Max (all available data)
 
-## Expanding the ESLint configuration
+4. **Fullscreen Mode**: Allows users to view the chart in fullscreen for a more detailed analysis.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+5. **Compare Option**: (Placeholder for future feature) Button to compare with other cryptocurrencies or assets.
 
-- Configure the top-level `parserOptions` property like this:
+6. **Responsive Design**: Adapts to different screen sizes for optimal viewing on various devices.
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json', './tsconfig.app.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+7. **Styled Components**: Utilizes styled-components for consistent and maintainable styling.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+8. **External Data Source**: Fetches data from a JSON file, making it easy to update or replace with an API in the future.
+
+## Dependencies
+
+- React
+- styled-components
+- lucide-react (for icons)
